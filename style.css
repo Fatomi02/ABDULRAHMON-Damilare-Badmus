@@ -13,7 +13,7 @@
     
     
     #header{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         width: 100%;
         position: fixed;
         z-index: 1;
@@ -93,7 +93,7 @@
     }
     
     .div-button button a{
-        color: rgb(3, 90, 84);
+        color: #87CEEB;
     }
     
     .download-icon{
@@ -121,7 +121,7 @@
     /* Section One */
     #home{
         padding-top: 80px;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         height: auto;
         overflow: hidden;
     }
@@ -168,7 +168,7 @@
         
         .header-text button a{
             background-color: white;
-            color: rgb(3, 90, 84);
+            color: #000;
         }
     
         .about-me{
@@ -278,7 +278,6 @@
         background-color: gray;
         height: 20px;
     }
-    
     .percentage{
         height: 20px;
         background-color: rgb(3, 90, 84);
@@ -312,7 +311,7 @@
     }
     
     .heading-2{
-        border-bottom: 2px solid rgb(3, 90, 84);
+        border-bottom: 2px solid #87CEEB;
     }
     
     .heading-2-p p{
@@ -337,16 +336,16 @@
     .service-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div hr{
         margin-top: 15px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
         margin-left: auto;
         margin-right: auto;
@@ -374,7 +373,7 @@
         height: 150px;
         width: 150px;
        margin-bottom: 20px; 
-       border: 10px solid rgb(3, 90, 84);
+       border: 10px solid #87CEEB;
        transition: border 0.5s;
     }
     
@@ -397,7 +396,7 @@
     }
     
     .counter-div{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         height: 300px;
         width: 100%;
         padding-top: 100px;
@@ -453,16 +452,16 @@
     .work-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div hr{
         margin-top: 15px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
         margin-left: auto;
         margin-right: auto;
@@ -535,7 +534,7 @@
         width: 15%;
         text-align: center;
         margin: auto;
-        border: 1px solid rgb(3, 90, 84);
+        border: 1px solid #87CEEB;
         border-radius: 50%;
         height: 42px;
         padding-top: 8px;
@@ -557,7 +556,7 @@
     
     .contact{
         opacity: 0.7;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         padding-top: 100px;
         padding-bottom: 80px;
         text-align: center;
@@ -578,7 +577,7 @@
     
     .contact-me-div hr{
         margin-top: 15px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 20%;
     }
     
@@ -622,13 +621,13 @@
     .social-icon{
         padding: 10px 14px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon i{
@@ -642,7 +641,7 @@
     .social-icon-2{
         padding: 10px 12px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
         margin-left: 10px;
         margin-right: 10px;
@@ -650,19 +649,19 @@
     
     .social-icon-2:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon-3{
         padding: 10px 10px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon-3:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .submit-div{
@@ -670,7 +669,7 @@
     }
     
     .submit-btn{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         color: white;
         width: 40%;
         height: 65px;
@@ -721,7 +720,7 @@
     }
     
     #header{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         position: fixed;
         z-index: 1;
         width: 100%;
@@ -799,7 +798,7 @@
     }
     
     .div-button button a{
-        color: rgb(3, 90, 84);
+        color: #87CEEB;
     }
     
     .download-icon{
@@ -831,7 +830,7 @@
     }
     
     .main{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         display: flex;
         flex-direction: row;
     }
@@ -871,7 +870,7 @@
     
     .header-text button a{
         background-color: white;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
 
     .about-me{
@@ -1012,7 +1011,7 @@
     }
     
     .heading-2{
-        border-bottom: 2px solid rgb(3, 90, 84);
+        border-bottom: 2px solid #87CEEB;
     }
     
     .heading-2-p p{
@@ -1037,16 +1036,16 @@
     .service-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div hr{
         margin: 15px auto 30px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
     }
     
@@ -1073,7 +1072,7 @@
         /* height: 150px; */
         width: 50%;
        margin-bottom: 20px; 
-       border: 10px solid rgb(3, 90, 84);
+       border: 10px solid #87CEEB;
        transition: border 0.5s;
     }
     
@@ -1096,7 +1095,7 @@
     }
     
     .counter-div{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         height: 300px;
         width: 100%;
         padding-top: 100px;
@@ -1152,17 +1151,17 @@
     .work-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div hr{
         margin-top: 15px;
         margin-bottom: 20px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
         margin-left: auto;
         margin-right: auto;
@@ -1235,7 +1234,7 @@
         width: 15%;
         text-align: center;
         margin: auto;
-        border: 1px solid rgb(3, 90, 84);
+        border: 1px solid #87CEEB;
         border-radius: 50%;
         height: 42px;
         padding-top: 8px;
@@ -1257,7 +1256,7 @@
     
     .contact{
         opacity: 0.7;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         padding-top: 100px;
         padding-bottom: 80px;
         text-align: center;
@@ -1282,7 +1281,7 @@
     
     .contact-me-div hr{
         margin-top: 15px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 20%;
     }
     
@@ -1328,13 +1327,13 @@
     .social-icon{
         padding: 10px 14px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon i{
@@ -1348,7 +1347,7 @@
     .social-icon-2{
         padding: 10px 12px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
         margin-left: 10px;
         margin-right: 10px;
@@ -1356,19 +1355,19 @@
     
     .social-icon-2:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon-3{
         padding: 10px 10px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon-3:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .submit-div{
@@ -1376,7 +1375,7 @@
     }
     
     .submit-btn{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         color: white;
         width: 50%;
         height: 65px;
@@ -1426,7 +1425,7 @@
     }
     
     #header{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         position: fixed;
         z-index: 1;
         width: 100%;
@@ -1501,7 +1500,7 @@
     }
     
     .div-button button a{
-        color: rgb(3, 90, 84);
+        color: #87CEEB;
     }
     
     .download-icon{
@@ -1532,7 +1531,7 @@
     }
     
     .main{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         display: flex;
         flex-direction: row;
     }
@@ -1572,7 +1571,7 @@
     
     .header-text button a{
         background-color: white;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
 
     .about-me{
@@ -1713,7 +1712,7 @@
     }
     
     .heading-2{
-        border-bottom: 2px solid rgb(3, 90, 84);
+        border-bottom: 2px solid #87CEEB;
     }
     
     .heading-2-p p{
@@ -1738,16 +1737,16 @@
     .service-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div hr{
         margin: 15px auto 30px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
     }
     
@@ -1774,7 +1773,7 @@
         /* height: 60%; */
         width: 40%;
        margin-bottom: 20px; 
-       border: 10px solid rgb(3, 90, 84);
+       border: 10px solid #87CEEB;
        transition: border 0.5s;
     }
     
@@ -1797,7 +1796,7 @@
     }
     
     .counter-div{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         height: 300px;
         width: 100%;
         padding-top: 100px;
@@ -1853,17 +1852,17 @@
     .work-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div hr{
         margin-top: 15px;
         margin-bottom: 20px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
         margin-left: auto;
         margin-right: auto;
@@ -1936,7 +1935,7 @@
         width: 15%;
         text-align: center;
         margin: auto;
-        border: 1px solid rgb(3, 90, 84);
+        border: 1px solid #87CEEB;
         border-radius: 50%;
         height: 42px;
         padding-top: 8px;
@@ -1958,7 +1957,7 @@
     
     .contact{
         opacity: 0.7;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         padding-top: 100px;
         padding-bottom: 80px;
         text-align: center;
@@ -1983,7 +1982,7 @@
     
     .contact-me-div hr{
         margin-top: 15px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 20%;
     }
     
@@ -2029,13 +2028,13 @@
     .social-icon{
         padding: 10px 14px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon i{
@@ -2049,7 +2048,7 @@
     .social-icon-2{
         padding: 10px 12px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
         margin-left: 10px;
         margin-right: 10px;
@@ -2057,19 +2056,19 @@
     
     .social-icon-2:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon-3{
         padding: 10px 10px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon-3:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .submit-div{
@@ -2077,7 +2076,7 @@
     }
     
     .submit-btn{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         color: white;
         width: 50%;
         height: 65px;
@@ -2127,7 +2126,7 @@
     }
     
     #header{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         position: fixed;
         z-index: 1;
         width: 100%;
@@ -2205,7 +2204,7 @@
     }
     
     .div-button button a{
-        color: rgb(3, 90, 84);
+        color: #87CEEB;
         width: 100%;
     }
     
@@ -2238,7 +2237,7 @@
     }
     
     .main{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         display: flex;
         flex-direction: row;
     }
@@ -2278,7 +2277,7 @@
     
     .header-text button a{
         background-color: white;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
 
     .about-me{
@@ -2418,7 +2417,7 @@
     }
     
     .heading-2{
-        border-bottom: 2px solid rgb(3, 90, 84);
+        border-bottom: 2px solid #87CEEB;
     }
     
     .heading-2-p p{
@@ -2443,16 +2442,16 @@
     .service-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div hr{
         margin: 15px auto 30px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
     }
     
@@ -2478,7 +2477,7 @@
         border-radius: 50%;
         width: 45%;
        margin-bottom: 20px; 
-       border: 10px solid rgb(3, 90, 84);
+       border: 10px solid #87CEEB;
        transition: border 0.5s;
     }
     
@@ -2501,7 +2500,7 @@
     }
     
     .counter-div{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         height: 300px;
         width: 100%;
         padding-top: 100px;
@@ -2557,17 +2556,17 @@
     .work-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div hr{
         margin-top: 15px;
         margin-bottom: 20px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
         margin-left: auto;
         margin-right: auto;
@@ -2640,7 +2639,7 @@
         width: 15%;
         text-align: center;
         margin: auto;
-        border: 1px solid rgb(3, 90, 84);
+        border: 1px solid #87CEEB;
         border-radius: 50%;
         height: 42px;
         padding-top: 8px;
@@ -2662,7 +2661,7 @@
     
     .contact{
         opacity: 0.7;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         padding-top: 100px;
         padding-bottom: 80px;
         text-align: center;
@@ -2687,7 +2686,7 @@
     
     .contact-me-div hr{
         margin-top: 15px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 20%;
     }
     
@@ -2733,13 +2732,13 @@
     .social-icon{
         padding: 10px 14px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon i{
@@ -2753,7 +2752,7 @@
     .social-icon-2{
         padding: 10px 12px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
         margin-left: 10px;
         margin-right: 10px;
@@ -2761,19 +2760,19 @@
     
     .social-icon-2:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon-3{
         padding: 10px 10px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon-3:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .submit-div{
@@ -2781,7 +2780,7 @@
     }
     
     .submit-btn{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         color: white;
         width: 50%;
         height: 65px;
@@ -2838,7 +2837,7 @@
     }
     
     #header{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         position: fixed;
         z-index: 1;
         width: 100%;
@@ -2923,7 +2922,7 @@
     }
 
     .nav-item-2 ul li a{
-        color: rgb(3, 90, 84);
+        color: #87CEEB;
     }
 
     .download a {
@@ -2948,7 +2947,7 @@
     }
     
     .download{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         color: white;
         width: 65%;
         margin-left: 10px;
@@ -2963,11 +2962,11 @@
     }
 
     .download-icon{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
 
     .download-icon a i{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
 
     .download-icon a i{
@@ -2985,7 +2984,7 @@
     }
     
     .div-button button a{
-        color: rgb(3, 90, 84);
+        color: #87CEEB;
     }
     
     .download-icon{
@@ -3015,7 +3014,7 @@
     #home{
         overflow: hidden;
         padding-top: 150px;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .main{
@@ -3066,7 +3065,7 @@
     
     .header-text button a{
         background-color: white;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
 
     .about-me{
@@ -3214,7 +3213,7 @@
     }
     
     .heading-2{
-        border-bottom: 2px solid rgb(3, 90, 84);
+        border-bottom: 2px solid #87CEEB;
         margin-bottom: 10px;
     }
     
@@ -3242,16 +3241,16 @@
     .service-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .service-div hr{
         margin: 15px auto 30px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 10%;
     }
     
@@ -3279,7 +3278,7 @@
         height: 60%;
         width: 40%;
        margin-bottom: 20px; 
-       border: 10px solid rgb(3, 90, 84);
+       border: 10px solid #87CEEB;
        transition: border 0.5s;
     }
     
@@ -3302,7 +3301,7 @@
     }
     
     .counter-div{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         height: auto;
         width: 100%;
         padding-top: 50px;
@@ -3360,17 +3359,17 @@
     .work-div h2{
         font-size: 2.2rem;
         margin-bottom: 10px;
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div p{
-        color: rgb(3, 90, 84);
+        color: #000;
     }
     
     .work-div hr{
         margin-top: 15px;
         margin-bottom: 20px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 5%;
         margin-left: auto;
         margin-right: auto;
@@ -3443,7 +3442,7 @@
         width: 15%;
         text-align: center;
         margin: auto;
-        border: 1px solid rgb(3, 90, 84);
+        border: 1px solid #87CEEB;
         border-radius: 50%;
         height: 42px;
         padding-top: 8px;
@@ -3465,7 +3464,7 @@
     
     .contact{
         opacity: 0.7;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         padding-top: 100px;
         padding-bottom: 80px;
         text-align: center;
@@ -3490,7 +3489,7 @@
     
     .contact-me-div hr{
         margin-top: 15px;
-        border: 2px solid rgb(3, 90, 84);
+        border: 2px solid #87CEEB;
         width: 40%;
     }
     
@@ -3536,13 +3535,13 @@
     .social-icon{
         padding: 8px 10px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon i{
@@ -3556,7 +3555,7 @@
     .social-icon-2{
         padding: 8px 10px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
         margin-left: 8px;
         margin-right: 8px;
@@ -3564,19 +3563,19 @@
     
     .social-icon-2:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .social-icon-3{
         padding: 8px 10px;
         border-radius: 50%;
-        border: 4px solid rgb(3, 90, 84);
+        border: 4px solid #87CEEB;
         transition: border 0.8s, background-color 0.8s;
     }
     
     .social-icon-3:hover{
         border: 4px solid #f5f5f5;
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
     }
     
     .submit-div{
@@ -3584,7 +3583,7 @@
     }
     
     .submit-btn{
-        background-color: rgb(3, 90, 84);
+        background-color: #87CEEB;
         color: white;
         width: 50%;
         height: 65px;
